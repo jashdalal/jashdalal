@@ -1,4 +1,4 @@
-## [Hello!](https://jashdalal.github.io)
+<h2><a href="https://jashdalal.github.io" style="color: inherit; text-decoration: none;">Hello!</a></h2>
 
 ![Profile views](https://komarev.com/ghpvc/?username=jashdalal)
 
